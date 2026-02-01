@@ -1,4 +1,4 @@
-# WebAppLoginTest
+# Automated login tests for the website using Robot Framework
 
 This project contains automated login tests for a demo website using **Robot Framework** and **SeleniumLibrary**. It covers positive and negative login scenarios.
 
